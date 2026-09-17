@@ -9,6 +9,8 @@ Outputs a JSON array of omens with fields: `number`, `pattern`, `circles`,
 
 This script uses only Python standard library modules.
 """
+# AI-produced code
+# Kept to harvest any interesting parts.
 
 import argparse
 import json
