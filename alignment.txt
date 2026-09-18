@@ -1,16 +1,19 @@
 # for now @ ... @ marks discrepancies in any line of text
 # number in parentheses is the word count for that line
 
+# mid point: "abc·def" indicates ...
+# hyphen: "abc-def" indicates
+
 Omen 1
 (15)	𐰆𐰞  𐰓𐰏𐰇  𐰋𐰃𐰠𐰃𐰭𐰠𐱁  𐰨𐰀  𐰢𐰤  𐰢𐰭𐰃𐰠𐰘𐰇𐱁  𐰆𐰞𐰆𐰺𐰰𐰣  𐰇𐰔𐰀  𐰇𐱁𐰏𐰃𐰤  𐰞𐱃𐰆𐰣  𐰚𐰃𐰲𐰀  𐰖𐰺𐰣  𐰢𐰤  𐰾𐰃  𐱅𐰤
-(15)	@ t²n² s²i @ mn² y¹r¹n¹ k²iča l¹t¹on¹ öšg²in² öza ol¹or¹o͡pn¹ mŋil²y²öš mn² n͜ča b²il²iŋl²š d²g²ö ol¹
-(14)	@ tänsi @ män. yarın kiçä altun örgin üzä olurupan mäŋiläyür män. ança biliŋlär: ädgü ol.
-# 2:1 source tn.si vs transcr tänsi 
+(15)	t²n² s²i mn² y¹r¹n¹ k²iča l¹t¹on¹ öšg²in² öza ol¹or¹o͡pn¹ mŋil²y²öš mn² n͜ča b²il²iŋl²š d²g²ö ol¹
+(14)	tän·si män. yarın kiçä altun örgin üzä olurupan mäŋiläyür män. ança biliŋlär: ädgü ol.
+# 2:1 source tn si vs transcr tänsi 
 
 Omen 3
 (26)	𐰆𐰞  𐰓𐰏𐰇  𐰋𐰃𐰠𐰃𐰭𐰠𐱁  𐰨𐰀  𐰢𐰤  𐰚𐰇𐰲𐰠𐰇𐰏  𐰦𐰍  𐰢𐰤  𐰘𐰃𐰘𐰇𐱁  𐰾𐰋𐰓𐰜𐰢𐰃𐰤  𐰢𐰤  𐱃𐰆𐱃𐰺  𐱃𐰯𐰞𐰀𐰑𐰆𐰴𐰢𐰃𐰤  𐰖𐱃𐰯𐰣  𐱃𐰞𐰆𐰖𐰑𐰀  𐰢𐰔𐰚𐰤  𐱅𐰇𐰚𐰀  𐱃𐰴𐰃  𐱅𐰇𐰾𐰃  𐱃𐰣𐰢  𐰢𐰤  𐰴𐰆𐰽  𐰴𐰺𐰀  𐱃𐰞𐰢  𐰴𐰣𐱃𐰞𐰍  𐰞𐱃𐰆𐰣
 (26)	l¹t¹on¹ k¹n¹t¹l¹g¹ t¹l¹m k¹r¹a k¹os¹ mn² t¹n¹m t²ös²i t¹k¹i @ t²ök²a mzk²n² @ t¹l¹oy¹d¹a y¹t¹pn¹ t¹pl¹ad¹ok¹min² t¹ot¹r¹ mn² s²b²d²ö͜kmin² y²iy²öš mn² n͜tg¹ k²öčl²ög² mn² n͜ča b²il²iŋl²š d²g²ö ol¹
-(25)	altun kanatlıg talım kara kuş män. tanım tüsi takı @ tükämäzkän @ taluyda yatıpan tapladukumin tutar män, säbdükümin yiyür män. antag küçlüg män. ança biliŋlär: ädgü ol.
+(25)	altun kanatlıg talım kara kuş män. tanım tüsi takı @ tükä·mäzkän @ taluyda yatıpan tapladukumin tutar män, säbdükümin yiyür män. antag küçlüg män. ança biliŋlär: ädgü ol.
 # 2:1 source t²ök²a mzk²n² vs transcr tükämäzkän
 
 Omen 18
