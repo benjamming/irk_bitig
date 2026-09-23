@@ -1,25 +1,29 @@
 # source: https://en.wikipedia.org/wiki/Old_Turkic_script
->> Vowels
+>> Vowels 
 
 𐰀‎𐰁‎
 IPA: /ɑ/, /æ/
 a, ä
 
-𐰂
-IPA: /ɑ/, /æ/
-a, ä
-
 𐰃‎𐰄‎
 IPA: /ɯ/, /i/
-ï, ı, i
+ı, i
 
-𐰅‎
+‎𐰅‎
 IPA: /e/
 e
+
+>> Back Vowels
 
 𐰆‎
 IPA: /o/, /u/
 o, u
+
+>> Front vowels
+
+‎𐰂‎
+IPA: /æ/
+ä
 
 𐰇‎𐰈‎
 IPA: /ø/, /y/
